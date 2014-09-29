@@ -17,7 +17,6 @@ Guidelines
 Get started:
 
 - Fork this repository
-- While working, commit and push to your fork regularly (after each step, feature,... show us how you organize your work!)
 - You need to create a Single Page App using Angular
 - You can add and use any tools, library or plugin you need to get the job done
 - The test duration is 2 hours: remember that HOW you do things is more important than HOW MUCH work you do.
@@ -26,6 +25,7 @@ Once your work is done:
 
 - Make sure the application works out-of-the box
 - In the Setup section here above, describe how to run your project
+- Push your work to your fork
 
 
 Assignment
@@ -48,5 +48,6 @@ If you have some time left, you can push your project a bit further with some of
 
 - As a user, I can change the color of a TILE
 - As a user, I can create a new SERIE
+- As a user, I can create a new TILE
 - As a user, I can view all my TILES
 - Any other feature you'd like to add!
